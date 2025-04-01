@@ -9,7 +9,7 @@ This project tracks the International Space Station (ISS) in **real-time** using
 - 🌐 **Live Data Source**: [open-notify API](http://api.open-notify.org/iss-now.json)
 - 🧵 **Streaming Framework**: Apache Kafka
 - ⚡ **Real-Time Processing**: Apache Spark Structured Streaming
-- 📊 **Dashboarding**: Power BI Desktop (Windows)
+- 📊 **Dashboarding**: Power BI Desktop
 
 ---
 
