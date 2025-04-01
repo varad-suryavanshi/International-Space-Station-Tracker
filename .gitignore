@@ -1,0 +1,13 @@
+# Ignore data and checkpoints
+data/
+__pycache__/
+*.parquet
+*.csv
+*.log
+
+# Ignore virtual environment
+iss-tracker/
+
+# VSCode or JetBrains stuff
+.vscode/
+.idea/
