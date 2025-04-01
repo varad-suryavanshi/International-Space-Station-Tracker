@@ -131,7 +131,7 @@ flatDf.write.option("header", "true").mode("overwrite").csv("data/iss_csv/")
 ## 📦 Author
 
 **Varad Suryavanshi**  
-📧 varad.suryavanshi@example.com  
+📧 varadsuryavanshi126@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/varad-suryavanshi-a1b975227/) • [GitHub](https://github.com/varad-suryavanshi)
 
 ---
