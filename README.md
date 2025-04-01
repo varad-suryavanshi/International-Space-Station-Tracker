@@ -2,8 +2,6 @@
 
 This project tracks the International Space Station (ISS) in **real-time** using a big data pipeline and visualizes its geospatial coordinates using **Apache Kafka**, **Apache Spark**, and **Power BI Desktop**.
 
-![screenshot](screenshots/powerbi_dashboard.png)
-
 ---
 
 ## 📌 Overview
